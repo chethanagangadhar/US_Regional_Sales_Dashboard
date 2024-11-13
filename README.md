@@ -40,4 +40,4 @@ A data visualization project using **Power BI** to analyze and display U.S. sale
 
 - **Power BI** for visualization
 - **Excel** for data prep
-- **GitHub** for project files
+
